@@ -30,6 +30,9 @@ work that channel — ethically and within Telegram's terms of service.
   (semantic search rather than scraping), with lead scoring and CRM export. EN/RU/UK.
 - [LeadScan](https://leadscan.ru) — keyword-monitoring bot that alerts on new messages matching
   your terms across Telegram groups (RU).
+- [Leadolovets](https://mpleads.ru/bot/en/) — AI monitoring of the Telegram chats your account has joined: finds people
+  looking for a contractor, filters competitor ads by meaning, scores leads and drafts a reply (RU/EN).
+
 
 ## Developer Libraries & APIs
 
